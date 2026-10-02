@@ -50,6 +50,6 @@ int main() {
     std::cout << "Nama  = Jevon Bintang Prakosa Dewantoro\n";
     std::cout << "NIM   = 26.11.6776\n";
     std::cout << "Kelas = IF 5\n";
-    std::cout << "Hobi  = Musik";
+    std::cout << "Hobi  = Musik" << endl;
 	return 0; 
 }
