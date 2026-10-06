@@ -11,7 +11,7 @@ int main() {
 	cout << "Masukkan tinggi = ";
 	cin >> tinggi;
 	
-	cout << "hasil perhitungan luas segitiga adalah = " << (alas * tinggi) / 2;
+	cout << "hasil perhitungan luas segitiga adalah = " << (alas * tinggi) / 2 << "\n";
 
 return 0;
 }
